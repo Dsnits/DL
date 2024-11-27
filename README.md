@@ -1,4 +1,4 @@
-# DL
+# IMAGE CLASSIFICATION USING CNN 
 CNN Image Classification Using 2D Layers
 This project implements a Convolutional Neural Network (CNN) for image classification tasks, utilizing 2D convolutional layers to process visual data effectively. CNNs are powerful deep learning models for recognizing patterns and features in images, making them ideal for tasks like object detection, face recognition, and more.
 
